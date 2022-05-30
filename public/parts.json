@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Switchboard with fuses installation connection",
+        "img": "https://i.ibb.co/PN3Fd05/man-electrical-technician-working-switchboard-with-fuses-installation-connection-electrical-equipmen.jpg",
+        "available_quantity": 29,
+        "min_order_quantity":5,
+        "price_per_piece": 21,
+        "desc": "Powerful, easy to use"
+      },
+      {
+        "name": "Soldering components motherboard",
+        "img": "https://i.ibb.co/m5BcPVf/repairman-soldering-components-motherboard-while-fixing-damaged-smart-phone-using-tweezers-iron.jpg",
+
+        "available_quantity": 40,
+        "min_order_quantity":5,
+        "price_per_piece": 20,
+        "desc": "Different color, powerful, easy to use"
+      },
+      {
+        "name": "Heat Gun, Electrician tools space text",
+        "img": "https://i.ibb.co/S52TNnY/concept-electrician-tools-space-text.jpg",
+        
+        "available_quantity": 39,
+        "min_order_quantity":5,
+        "price_per_piece": 28,
+        "desc": "Good quality, long lasting"
+      },
+      {
+        "name": "Holds multimeter components isolated",
+        "img": "https://i.ibb.co/yV7XdZJ/male-hand-holds-multimeter-components-isolated-white-background.jpg",
+      
+        "available_quantity": 25,
+        "min_order_quantity":5,
+        "price_per_piece": 24,
+        "desc": "Our unique make."
+      },
+      {
+        "name": "Work Tools Pliers isolated",
+        "img": "https://i.ibb.co/gmZJhmN/work-tool-isolated-white-background-close-up.jpg",
+        
+        "available_quantity": 24,
+        "min_order_quantity":5,
+        "price_per_piece": 29,
+        "desc": "Super useful, available in different size"
+      },
+      {
+        "name": "Digital Multimeter",
+        "img": "https://i.ibb.co/6b8GGSv/old-digital-multimeter-isolated-white-background.jpg",
+        
+        "available_quantity": 26,
+        "min_order_quantity":5,
+        "price_per_piece": 28,
+        "desc": "Measures perfect!"
+      }
+]
